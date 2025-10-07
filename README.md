@@ -1,7 +1,7 @@
 <!-- Header Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="assets/banner_ai.png" alt="Bilal Asif Burney Banner" width="100%">
-</p>
+</p> -->
 
 # 👋 Hi, I’m Bilal Asif Burney!
 
