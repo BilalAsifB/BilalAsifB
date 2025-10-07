@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://github.com/BilalAsifB/BilalAsifB/assets/banner_ai.png" alt="Bilal Asif Burney Banner" width="100%">
+  <img src="assets/banner_ai.png" alt="Bilal Asif Burney Banner" width="100%">
 </p>
 
 # 👋 Hi, I’m Bilal Asif Burney!
