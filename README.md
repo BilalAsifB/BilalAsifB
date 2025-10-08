@@ -82,7 +82,6 @@ I’m also big on **competitions** — they keep me sharp, curious, and motivate
 
 </p>
 
-
 ---
 
 ## 📂 Featured Projects
@@ -95,7 +94,7 @@ Includes **LangSmith prompt versioning**, **ZenML pipelines**, and **Docker + Az
 Few-shot learning model for animal re-identification using **ConvNeXt + ArcFace + FAISS**.  
 Automated **training, tuning, and retrieval** pipeline with Optuna and FAISS.
 
-### 🧬 [Alzheimer’s Disease Classifier](https://github.com/BilalAsifB/Resume_Parser)
+### 🧬 [Alzheimer’s Disease Classifier](https://github.com/BilalAsifB/alzheimers_disease_classification)
 Machine learning model for Alzheimer’s detection using **Boruta feature selection**, **PCA**, and **SMOTE**.  
 Trained on **SVM** and **Random Forest**, achieving strong performance on imbalanced data.
 
@@ -124,6 +123,19 @@ Trained on **SVM** and **Random Forest**, achieving strong performance on imbala
 
 ---
 
+## 📚 Book Recommendations
+
+Here are some books that have deeply inspired me — a mix of thought-provoking fiction and powerful storytelling:
+
+📘 *I Who Have Never Known Men* — **Jacqueline Harpman**  
+📕 *Madonna in a Fur Coat* — **Sabahattin Ali**  
+📗 *Small Things Like These* — **Claire Keegan**  
+📙 *A Little Life* — **Hanya Yanagihara**  
+📘 *Project Hail Mary* — **Andy Weir**  
+📕 *The Goldfinch* — **Donna Tartt**
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -144,5 +156,3 @@ Trained on **SVM** and **Random Forest**, achieving strong performance on imbala
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BilalAsifB&theme=react-dark" alt="Contribution Graph"/>
 </p>
-
----
