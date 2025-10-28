@@ -147,7 +147,7 @@ Here are some books that have deeply inspired me — a mix of thought-provoking 
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BilalAsifB&theme=radical&row=1&column=6&cache_seconds=3600" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BilalAsifB&theme=radical&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
