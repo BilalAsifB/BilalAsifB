@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<!-- <p align="center">
-  <img src="assets/banner_ai.png" alt="Bilal Asif Burney Banner" width="100%">
-</p> -->
-
 # 👋 Hi, I’m Bilal Asif Burney!
 
 🎓 **Bachelor’s in Artificial Intelligence @ FAST NUCES, Karachi**  
@@ -136,18 +131,18 @@ Here are some books that have deeply inspired me — a mix of thought-provoking 
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BilalAsifB&theme=radical&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BilalAsifB&show_icons=true&theme=radical&cache_seconds=3600" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAsifB&layout=compact&theme=radical&cache_seconds=3600" height="165" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BilalAsifB&theme=radical&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
