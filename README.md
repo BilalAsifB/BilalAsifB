@@ -1,4 +1,9 @@
-# 👋 Hi, I’m Bilal Asif Burney!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BilalAsifB/BilalAsifB/main/assets/sunflower.png" width="60" />
+  <b>👋 Hi, I’m Bilal Asif Burney!</b>
+  <img src="https://raw.githubusercontent.com/BilalAsifB/BilalAsifB/main/assets/sunflower.png" width="60" />
+</p>
+
 
 🎓 **Bachelor’s in Artificial Intelligence @ FAST NUCES, Karachi**  
 💡 Passionate about AI, backend engineering, and building cloud-native systems  
