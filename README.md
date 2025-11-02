@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BilalAsifB/BilalAsifB/main/assets/sunflower.png" width="60" />
-  <b>👋 Hi, I’m Bilal Asif Burney!</b>
-  <img src="https://raw.githubusercontent.com/BilalAsifB/BilalAsifB/main/assets/sunflower.png" width="60" />
+  <img src="https://raw.githubusercontent.com/BilalAsifB/BilalAsifB/main/assets/sunflower_1.png" width="60" />
+  <b>Hi, I’m Bilal Asif Burney!</b>
 </p>
 
 
