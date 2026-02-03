@@ -1,3 +1,5 @@
+! [My GitHub Game](game.gif)
+
 ## 🌻 Hi, I’m Bilal Asif Burney!
 
 🎓 **Bachelor’s in Artificial Intelligence @ FAST NUCES, Karachi**  
