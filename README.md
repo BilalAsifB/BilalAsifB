@@ -1,6 +1,9 @@
-! [My GitHub Game](game.gif)
+<div align="center">
+  <img src="game.gif" width="1200" />
+</div>
 
-## 🌻 Hi, I’m Bilal Asif Burney!
+<h2 align="center"></h2>
+<h1 align="center">🌻 Hi, I’m Bilal Asif Burney!</h1>
 
 🎓 **Bachelor’s in Artificial Intelligence @ FAST NUCES, Karachi**  
 💡 Passionate about AI, backend engineering, and building cloud-native systems  
