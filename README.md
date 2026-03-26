@@ -20,7 +20,7 @@ I’m also big on **competitions** — they keep me sharp, curious, and motivate
 ---
 
 ## 🏆 Achievements
-- 🥇 **Winner** -  Hackfest x Datathon 26 *(ML Module)*
+- 🥇 **Winner** — Hackfest x Datathon 26 *(ML Module)*
 - 🥈 **Runner-up** — AI Nexus 25 *(Data Alchemy)*  
 - 🏅 **4th Place** — Developers Day 25 *(AI Showdown)*  
 - 🧠 **6th Place** — Procom 25 *(Data Science)*  
