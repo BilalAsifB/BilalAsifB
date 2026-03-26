@@ -19,6 +19,15 @@ I’m also big on **competitions** — they keep me sharp, curious, and motivate
 
 ---
 
+## 🏆 Achievements
+- 🥇 **Winner** -  Hackfest x Datathon 26 *(ML Module)*
+- 🥈 **Runner-up** — AI Nexus 25 *(Data Alchemy)*  
+- 🏅 **4th Place** — Developers Day 25 *(AI Showdown)*  
+- 🧠 **6th Place** — Procom 25 *(Data Science)*  
+- ⚙️ **10th Place** — Probattle 25 *(Machine Learning)* 
+
+---
+
 ## ⚙️ Tech Stack
 
 <p align="center">
@@ -96,15 +105,7 @@ Automated **training, tuning, and retrieval** pipeline with Optuna and FAISS.
 
 ### 🧬 [Alzheimer’s Disease Classifier](https://github.com/BilalAsifB/alzheimers_disease_classification)
 Machine learning model for Alzheimer’s detection using **Boruta feature selection**, **PCA**, and **SMOTE**.  
-Trained on **SVM** and **Random Forest**, achieving strong performance on imbalanced data.
-
----
-
-## 🏆 Achievements
-- 🥈 **Runner-up** — AI Nexus 25 *(Data Alchemy)*  
-- 🏅 **4th Place** — Developers Day 25 *(AI Showdown)*  
-- 🧠 **6th Place** — Procom 25 *(Data Science)*  
-- ⚙️ **10th Place** — Probattle 25 *(Machine Learning)*  
+Trained on **SVM** and **Random Forest**, achieving strong performance on imbalanced data. 
 
 ---
 
