@@ -95,6 +95,11 @@ I’m also big on **competitions** — they keep me sharp, curious, and motivate
 
 ## 📂 Featured Projects
 
+### 👮 [Sentinel-D](https://github.com/BilalAsifB/Sentinel-d.git)
+An autonomous DevSecOps multi-agent system that moves CI/CD from passive scanning to active defense. 
+Sentinel-D triages CVEs, verifies live production blast radius via Azure SRE, and writes sandbox-tested
+PRs before a human ever has to look.
+
 ### 🧭 [FYP Buddy](https://github.com/BilalAsifB/fyp_buddy)
 AI-powered student matching platform using **LangGraph agents** + **Groq LLM**.  
 Includes **LangSmith prompt versioning**, **ZenML pipelines**, and **Docker + Azure deployment**.
