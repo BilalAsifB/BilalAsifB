@@ -8,7 +8,7 @@
   <code>[SYSTEM INITIALIZING...]</code><br>
   <code>[OK] UPLINK ESTABLISHED.</code><br>
   <code>[OK] ACCESS GRANTED TO MAINFRAME.</code>
-  <h1 align="center">⚡ Hi, I’m Bilal Asif Burney</h1>
+  <h1 align="center">🌻 Hi, I’m Bilal Asif Burney</h1>
   <p><i>"I sleep, I wake, I build."</i></p>
 </div>
 
