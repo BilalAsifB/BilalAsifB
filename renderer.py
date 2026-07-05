@@ -1,4 +1,16 @@
+import base64
+import mimetypes
+from pathlib import Path
+
 import svgwrite
+
+
+def _to_data_uri(path):
+    p = Path(path)
+    mime = mimetypes.guess_type(p.name)[0] or "image/png"
+    data = base64.b64encode(p.read_bytes()).decode("ascii")
+    return f"data:{mime};base64,{data}"
+
 
 def add_text(dwg, text, x, y, size, weight="normal", anchor="middle"):
 
@@ -30,7 +42,7 @@ def add_image(dwg,path,x,y,w,h):
 
         dwg.image(
 
-            href=path,
+            href=_to_data_uri(path),
 
             insert=(x,y),
 
@@ -44,7 +56,7 @@ def add_project(dwg, project, x, y):
 
     link = dwg.add(
 
-        dwg.a(project["url"])
+        dwg.a(project["url"], target="_blank")
 
     )
 
@@ -52,7 +64,7 @@ def add_project(dwg, project, x, y):
 
         dwg.image(
 
-            href=project["image"],
+            href=_to_data_uri(project["image"]),
 
             insert=(x,y),
 
